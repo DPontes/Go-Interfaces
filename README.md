@@ -4,11 +4,13 @@ The code is for the Go-Interfaces project from the Udemy course Go: The Complete
 
 ## Output
 
-TBD
+Two strings of the hardcoded greetings for `englishBot` and `spanishBot`
 
 ### Example
 
 ```bash
+Hello there!
+Hola!
 ```
 
 ## How-To
